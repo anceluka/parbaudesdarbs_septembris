@@ -1,6 +1,6 @@
 h1   {
     text-align: center;
-    color:rgb(224, 100, 173);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
     font-size:50px;
 }
         
@@ -8,7 +8,7 @@ table, th, td {
     text-align: center;
     border: 3px solid whitesmoke;
   }
-  button {
+button {
     border: 2px solid #d464a9; 
     color: rgb(179, 58, 158);
     padding: 15px 32px;
@@ -19,7 +19,7 @@ table, th, td {
     margin: 4px 2px;
     cursor: pointer;
   }
-p   {   
+p  {      
     text-align: center;
     color:rgb(255, 238, 251);
     font-size: 30px;
